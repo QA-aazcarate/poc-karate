@@ -1,0 +1,11 @@
+[
+  {
+    "userId": 1,
+    "expectedDomain": "reqres.in"
+  },
+  {
+    "userId": 2,
+    "expectedDomain": "reqres.in"
+  }
+]
+
