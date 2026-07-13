@@ -104,7 +104,7 @@ mvn clean test
 
 ### 8.2 Parametrizar entorno opcionalmente
 ```powershell
-mvn clean test -DbaseUrl="https://reqres.in/api" -DapiKey="<tu_api_key_real>" -DmaxResponseTimeMs=3000
+mvn clean test -DbaseUrl="https://jsonplaceholder.typicode.com" -DapiKey="<tu_api_key_real>" -DmaxResponseTimeMs=3000
 ```
 
 ### 8.3 Ejecutar CRUD real contra ReqRes

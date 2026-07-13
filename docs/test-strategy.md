@@ -1,7 +1,7 @@
 # Test Strategy - User Management API (ReqRes)
 
 ## 1. Objetivo
-Definir una estrategia de calidad para validar el flujo CRUD de usuarios (Create, Read, Update, Delete) en la API REST `https://reqres.in/api`.
+Definir una estrategia de calidad para validar el flujo CRUD de usuarios (Create, Read, Update, Delete) en la API REST `https://jsonplaceholder.typicode.com`.
 
 ## 2. Alcance
 - **Incluido**: endpoints de usuarios, contratos de respuesta, tiempos de respuesta, headers y reglas de negocio basicas.
